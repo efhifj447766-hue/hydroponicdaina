@@ -1,0 +1,17 @@
+{
+  "name": "HydroSense · ระบบไฮโดรโปนิกส์",
+  "short_name": "HydroSense",
+  "description": "ติดตามค่า pH, EC, อุณหภูมิ และความชื้นของโรงเรือนแบบเรียลไทม์",
+  "lang": "th",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#06100e",
+  "theme_color": "#06100e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
